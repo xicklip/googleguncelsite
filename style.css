@@ -1,0 +1,242 @@
+
+a:hover{
+    text-decoration: underline;
+}
+/* gmail css. */
+.gmail{
+    float: right;
+    position: relative;
+    margin-right: 71px;
+    margin-top: 6px;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+/* görsel css. */
+.gorsel{
+    float: right;
+    margin-right: 15px;
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    margin-top: 6px;
+}
+/* buton özellikleri */
+#button{
+    width: 16px;
+    height: 16px;
+    position: fixed;
+    display: block;
+    margin-left: 1830px;
+    float: right; 
+    margin-top: 7px;
+}
+body{
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* logo özellikleri */
+#lays{
+   float: right;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+/* id logo özellikleri */
+#logo{
+    height: 92px;
+    width: 272px;
+    display: inline-block;
+    margin-top: 241.5px;
+    margin-left: 824px;
+}
+/* id text özellikleri */
+#text{
+width: 576.5px;
+border-radius: 25px;
+height: 45px;
+margin-left: 668px;
+margin-top: 22px;
+font-size: 16px;
+outline: none;
+display: inline-block;
+border: 1px solid #dfe1e5;
+position: fixed;
+text-rendering: none;
+background-color: white;
+}
+/* id img özellikleri */
+#img{
+    margin-top: 37px;
+    margin-left: 680px;
+    position: fixed;
+    flex: 100%;
+}
+/* text2 özellikleri */
+#text2{
+    display: inline-block;
+    margin-left: 714px;
+    width: 480px;
+    margin-top: 29px;
+    position: relative;
+    border: none;
+    height: 30px;
+    font-size: 16px;
+    text-shadow: none;
+    appearance: textfield;
+    cursor: text;
+    text-rendering: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+}
+#text:hover{
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.20), 0 2px 5px 0 rgba(0,0,0,0.15);
+}
+#text2:hover{
+    border: none;
+}
+/* Mikrofon simgesi */
+#mikrofon{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    margin-left: 13px;
+    margin-top: 33px;
+    position: fixed;
+}
+/* Butonlar */
+#search{
+    margin-left: 785px;
+    margin-top: 36px;
+    font-size: 14px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 122.6px;
+    height: 36px;
+    border: 1px solid #f8f9fa;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    cursor: pointer;
+}
+ #lucky{
+    margin-left: 7px;
+    margin-top: 36px;
+    font-size: 14px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 216.08px;
+    height: 36px;
+    border: 1px solid #f8f9fa;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    cursor: pointer;
+ }
+ #diller{
+    font-size: small;
+    text-align: center;
+    color: #4d5156;
+    margin-right: 5px;
+    margin-top: 29px;
+    
+ }
+ .english{
+    text-decoration: none;
+    margin-left: 4px;
+ }
+ /* --Alt bölüm-- */
+ #div1{
+   background-color: #F2F2F2;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    margin-top: 330px;
+ }
+ #div2{
+    background-color: #F2F2F2;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    margin-top: 370px;
+ }
+#div2 > hr{
+    border-style: solid ;
+    border-color: #DADCE0;
+    opacity: 0.60;
+    margin-top: 7px;
+    position: static;
+}
+.turkiye{
+    color: #70757a ;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.hakkinda{
+    margin-left: 35px;
+    margin-top: 6px;
+    position: relative;
+}
+.isletme{
+    margin-left: 26px;
+    margin-top: 6px;
+    position: fixed;
+}
+.isletm{
+    margin-left: 103px;
+    display: inline-block;
+}
+.arama{ 
+    margin-left: 26px;
+    margin-top: 6px;
+    position: fixed;
+
+}
+#renk{
+    color: #70757a;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 14px;
+    display: inline-block;
+}
+.karbon{
+    width: 12.25px;
+    height: 14px;
+    margin-left: 607px;
+    display: inline-block;
+}
+#notr{
+    color: #70757a;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 2px;
+}
+.gizlilik{
+    margin-left: 633px;
+
+}
+.sartlar{
+    margin-left: 25px;
+}
+.ayarlar{
+    margin-left: 25px;
+}
+
+
+#notr:hover{
+
+    text-decoration: underline;
+}
+#renk:hover{
+    text-decoration: underline;
+}
+#search:hover{
+    box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.1), 0 2px 5px 0 rgba(0,0,0,0.1);
+}
+#lucky:hover{
+    box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.1), 0 2px 5px 0 rgba(0,0,0,0.1);
+}
+
+
+/* Xicklip - Çağdaş Berat ÇINAR */
